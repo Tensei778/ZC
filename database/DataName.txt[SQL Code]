@@ -1,0 +1,14 @@
+CREATE TABLE tblcustomer
+(
+	Cu_Name varchar(50),
+    Cu_Email varchar(50),
+    Password varchar(50)
+);
+CREATE TABLE tblorder
+(
+    0rder_Email varchar(50),
+    Order_Name varchar(50),
+    Order_Address varchar (100),
+    Order_Phone varchar(50),
+    Order_Town varchar (50)
+);
